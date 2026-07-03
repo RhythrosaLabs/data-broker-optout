@@ -350,3 +350,8 @@ python -m broker_app --debug         # dev mode
 ## License
 
 MIT
+
+
+## Support
+
+If you find this useful, consider supporting via [PayPal](https://paypal.me/noodlebake)
